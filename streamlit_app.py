@@ -1,6 +1,6 @@
 from collections import namedtuple
-from code_editor import code_editor
-from streamlit_ace import st_ace
+#from code_editor import code_editor
+#from streamlit_ace import st_ace
 import altair as alt
 import math
 import pandas as pd
